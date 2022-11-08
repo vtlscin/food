@@ -1,1 +1,2 @@
-# food
+# Projeto de uma aplicação de delivery, onde existem 2 microserviços de relacionados a pagamentos e pedidos.
+# Para desenvolver esse projeto, utilizei tecnologias como: Spring Boot para criação dos microserviços, MySql para banco de dados, Spring Cloud Netflix Eureka para Service Discovery e Service Registry, Spring Cloud Gateway para centralizar as requisições aos microserviços e utilizar o load balancer, comunicação entre os microserviços utilizando o Open Feign e Circuit Breaker e FallBack para caso de falhas entre os microserviços.
